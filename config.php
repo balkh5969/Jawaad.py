@@ -9,7 +9,7 @@ $DB = [
 'password' => 'ePmdU]~I0.#F'
 ];
 
-$apiKey = '8383961291:AAEmURwA2fzY0Z4tsgyE42dSJtzvyS1MqLw';
+$apiKey = '7952984220:AAFeZZIE0U1rrDx-ffOsaBXpn0nFDHLxzl8';
 
 $botUsername = 'JD_Game_420_Bot';
 
